@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Color Mixer App (Flutter version) is a replica of the native iOS Color Mixer App built with UIKit. This Flutter app allows users to create custom colors by mixing different combinations of red, green, and blue components, just like its native counterpart. It serves as a sample project for exploring Flutter development and recreating the functionality of the original app.
+The Color Mixer App (Flutter version) is a replica of the [native iOS Color Mixer Appp](https://github.com/WojuadeAA/colormixapp) built with UIKit. This Flutter app allows users to create custom colors by mixing different combinations of red, green, and blue components, just like its native counterpart. It serves as a sample project for exploring Flutter development and recreating the functionality of the original app.
 
 ## Features
 
